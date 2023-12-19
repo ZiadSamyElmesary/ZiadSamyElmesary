@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/zelmesary" target="blank"><img src="https://img.shields.io/twitter/follow/zelmesary?logo=twitter&style=for-the-badge" alt="zelmesary" /></a> </p>
 <br>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
+##   About me
 
 
 - Hello Everyone 👋, My name is Ziad Samy Elmesary.
@@ -17,7 +17,7 @@
 - 📫 How to reach me **elmesaryziad@gmail.com**
 - ⚡ Fun fact always learning
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with me
+##  Connect with me
 <p align="left">
 <a href="https://twitter.com/zelmesary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zelmesary" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ziad-elmesary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-elmesary" height="30" width="40" /></a>
